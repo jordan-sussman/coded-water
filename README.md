@@ -1,6 +1,6 @@
 # Coded Water
 
-Coded Water is a React component `Water` that uses text as a water visualizer. Repurposed and updated from an example on `thewayofcode.com`.
+Coded Water is a React component `Water` that uses text as a visualizer to imitate flowing water. Repurposed and updated from an example on `thewayofcode.com`.
 
 
 
